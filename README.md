@@ -8,19 +8,12 @@
     />
 </p>
 
-<h1 align="center">Aqua Tec</h1>
-
-
-
-
- 
  
 ## Tecnologias
 - HTML e Javascript - Estrutura do site
 - CSS - Estilizacão
-
-
-
+  
+  
 ## Desenvolvedor
 
 - **Kauan Mendes** [kauan-mendes](https://github.com/kauan-mendes)
