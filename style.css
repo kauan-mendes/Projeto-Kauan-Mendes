@@ -110,3 +110,9 @@ form button{
     color: white;
     cursor: pointer;
 }
+button:hover {
+    background-color: #be517b;
+    color: white;
+    
+    transition: all 0.4s;
+}
