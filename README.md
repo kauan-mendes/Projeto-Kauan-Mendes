@@ -1,4 +1,3 @@
-# Projeto-AcquaTec
 <p align="center">
     <img 
       src="https://fiama.com.br/wp-content/uploads/2016/03/aquatec-3.png"
