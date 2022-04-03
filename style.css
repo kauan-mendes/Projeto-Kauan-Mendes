@@ -59,9 +59,11 @@ color: white;
 .conteudocontainer{
     height: 412px;
     background-color: #E5E5E5;
+    
           
 }
 .engobla{
+    
     display: flex;
     justify-content: center;
     
@@ -75,9 +77,10 @@ h2{
 }
 
 .img1{ 
+    
     height: 160px;
     margin-left: 0%;
-    margin-top: 5%;
+    margin-top: 3%;
     
 
 }
@@ -89,7 +92,7 @@ h2{
 .img2{ 
     height: 160px;
     margin-left: 18%;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 #controlimg2{
     height: 100%;
@@ -100,7 +103,7 @@ h2{
 .img3{ 
     height: 160px;
     margin-left: 14%;
-    margin-top: 5%;
+    margin-top: 3%;
     
 }
 #controlimg3{
