@@ -56,6 +56,60 @@ background-color: #32B9CD;
 color: white;
 
 }
+.conteudocontainer{
+    height: 412px;
+    background-color: #E5E5E5;
+          
+}
+.engobla{
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+h2{
+    margin-left: 20%;
+    color: #E6005A;
+  
+}
+
+.img1{ 
+    height: 160px;
+    margin-left: 0%;
+    margin-top: 5%;
+    
+
+}
+#controlimg1{
+    height: 100%;
+    padding-left: 0%;
+    margin-left: 5%;
+}
+.img2{ 
+    height: 160px;
+    margin-left: 18%;
+    margin-top: 5%;
+}
+#controlimg2{
+    height: 100%;
+    padding-left: 0%;
+    margin-left: 0%;
+    margin-right: 70px;
+}
+.img3{ 
+    height: 160px;
+    margin-left: 14%;
+    margin-top: 5%;
+    
+}
+#controlimg3{
+    height: 100%;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+
+
 
 .footer .container{
 display: flex;
@@ -116,3 +170,5 @@ button:hover {
     
     transition: all 0.4s;
 }
+
+
